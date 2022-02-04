@@ -22,7 +22,7 @@ Kartenspiel mit einer Story. In dem Spiel gibt es verschiedene Charaktere mit ve
 
 
 
-=== Optionale Ziele
+== Optionale Ziele
 
 * Multiplayer
 * Endloss Modus mit Steigendem Schwierigkeitsgrad
