@@ -1,0 +1,36 @@
+= Projektantrag Card Game
+
+== Beschreibung
+
+Kartenspiel mit einer Story. In dem Spiel gibt es verschiedene Charaktere mit verschiedenen Kartendecks. Wenn man den jeweiligen Charakter besiegt kann man dessen Deck benutzen.
+
+== Spielinhalte
+
+* Story
+* Strategie Spiel 
+* Kleiner Shop
+* Charaktere mit verschiedenen Decks
+* Einstellbarem Schwierigkeitsgrad
+* Interagieren mit den Charakteren (Kann zum Beispiel eine Side Quest freischalten)
+
+
+== Projektteam
+
+* Habenschuss David
+* Munkh Sukhbat (Projektleiter)
+* Zhao Dennis
+
+
+
+=== Optionale Ziele
+
+* Multiplayer
+* Endloss Modus mit Steigendem Schwierigkeitsgrad
+
+
+
+
+== Programme
+
+* Unity
+* Gimp
