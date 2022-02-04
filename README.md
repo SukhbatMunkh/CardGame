@@ -1,2 +1,2 @@
 # CardGame
-A card Game 
+Card Game
